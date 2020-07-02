@@ -1,4 +1,4 @@
-# 3d-human-sample
+# 3D-Human-Sample
 3D Human quick rig sample using Unity3D, exported for HTML5
 
 
